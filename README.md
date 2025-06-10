@@ -42,4 +42,4 @@ A fully responsive, smooth-scrolling website inspired by Two Good Co. Built with
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/two-good-co.git
+git clone https://github.com/codinggujarat/Create-A-Responsive-Ecommerce-Website-for-Two-Good-Co-Using-GSAP-and-Locomotive-Scroll.git
